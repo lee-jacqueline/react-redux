@@ -1,5 +1,10 @@
-$primary: #006699;
+@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Sans+Condensed|Montserrat');
+
+$primary: #9c0000;
+$montserrat: 'Montserrat', sans-serif;
+$ibm-plex: 'IBM Plex Sans Condensed', sans-serif;
 
 h2 {
 	color: $primary;
+	font-family: $ibm-plex;
 }
