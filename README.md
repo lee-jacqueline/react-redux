@@ -1,3 +1,5 @@
+Redux Form based off https://github.com/erikras/reactalicante2017
+
 ![](http://i.imgur.com/DUiL9yn.png)
 
 # React/Sass/Redux Boilerplate
